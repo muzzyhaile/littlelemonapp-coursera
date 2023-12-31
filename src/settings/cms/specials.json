@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Greek Salad",
+    "image": "https://cdn.loveandlemons.com/wp-content/uploads/2019/07/greek-salad-2-580x756.jpg",
+    "price": 14.00,
+    "description": "The famous greek salad of crispy lettuce, peppers, olives and our Chicago style feta cheese, garnished with crunchy garlic and rosemary croutons."
+  },
+  {
+    "id": 2,
+    "title": "Bruschetta",
+    "image": "https://images.themodernproper.com/billowy-turkey/production/posts/TomatoandAvocadoBruschetta_8.jpg?w=800&q=82&fm=jpg&fit=crop&dm=1690997775&s=c795798f7c13f97571851ca1ad1d380b",
+    "price": 7,
+    "description": "Our Bruschetta is made from grilled bread that has been smeared with garlic and seasoned with salt and olive oil."
+  },
+  {
+    "id": 3,
+    "title": "Lemon Dessert",
+    "image": "https://i0.wp.com/www.onceuponachef.com/images/2017/01/Lemon-Pudding-Cake-2.jpg?resize=850%2C601&ssl=1",
+    "price": 5,
+    "description": "This comes straight from grandma’s recipe book, every last ingredient has been sourced and is as authentic as can be imagined."
+  }
+]
